@@ -14,9 +14,12 @@
 </a>
 
 ###
-Hi there, this is Wenxin Hou. I am a final-year Master student at Tokyo Institute of Technology (Tokyo Tech).
 
-Please check my homepage for my latest update! [link](https://houwenxin.github.io)
+- 😄 Hi there, this is Wenxin Hou. I am a final-year Master student at Tokyo Institute of Technology (Tokyo Tech).
+- 🔭 My research interest includes speech processing (speech recognition & synthesis, sound anomaly detection, spoken language acquisition), transfer learning and its applications in speech processing.
+- 🌱 I am also interested in NLP field, like representation learning, and neural machinie translation!
+- 👯 I am open to collaboration, feel free to contact me via Email!
+- ⚡ Please check my [homepage](https://houwenxin.github.io) for my latest update!
 
 
 
