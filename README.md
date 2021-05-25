@@ -14,7 +14,10 @@
 </a>
 
 ###
-- 🌱 I’m currently learning ...
+Hi there, this is Wenxin Hou. I am a final-year Master student at Tokyo Institute of Technology (Tokyo Tech).
+
+Please check my homepage for my latest update! [link](https://houwenxin.github.io)
+
 
 
 <!--
