@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://github.com/houwenxin">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=houwenxin&count_private=true&show_icons=true&hide=prs&theme=ayu-mirage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="houwenxin's github stats" />
+  <img align="center" src="https://github-readme-stats-vert-nine.vercel.app/api?username=houwenxin&count_private=true&show_icons=true&hide=prs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="houwenxin's github stats" />
 </a>
 
 <a href="https://github.com/houwenxin">
