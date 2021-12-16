@@ -23,11 +23,11 @@
 - [TorchSSL](https://github.com/TorchSSL/TorchSSL): An all-in-one toolkit based on PyTorch for **semi-supervised learning (SSL)**, containing code for 9 popular SSL algorithms to enable fair comparison and boost the development of SSL algorithms.
 - [EasyEspnet](https://github.com/jindongwang/EasyEspnet): A wrapper for easier usage of [ESPnet](https://github.com/espnet/espnet) that **helps you learn/write/run/debug** codes in a more friendly Python style.
 - [DeepDA](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDA): A lightweight, easy-to-extend, easy-to-learn and high-performance toolkit based on PyTorch for **domain adaptation (DA)** of deep neural networks.
-- [spolacq](https://github.com/tttslab/spolacq): Spoken Language Acquisition From Conversation Based On Reinforcement Learning debelo
+- [spolacq](https://github.com/tttslab/spolacq): **Spoken Language Acquisition** From Conversation Based On Reinforcement Learning
 
 ### Personal Recommendations
 - [ESPnet](https://github.com/espnet/espnet): the best-ever all-in-one toolkit for **end-to-end speech processing**!
-- [Transfer Learning](https://github.com/jindongwang/transferlearning): you can find all you need of **transfer learning** from it!
+- [Transfer Learning](https://github.com/jindongwang/transferlearning): you can find all you need for **transfer learning** from it!
 
 <!-- - 😄 Hi there, this is Wenxin Hou. I am a final-year Master student at Tokyo Institute of Technology (Tokyo Tech).
 - 🔭 My research interest includes speech processing (speech recognition & synthesis, sound anomaly detection, spoken language acquisition), transfer learning and its applications in speech processing.
