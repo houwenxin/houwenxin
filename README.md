@@ -20,6 +20,7 @@
 
 ### Participated Softwares or Projects
 
+- [NeuralSpeech](https://github.com/microsoft/NeuralSpeech): A research project in Microsoft Research Asia focusing on neural network based speech processing, including automatic speech recognition (ASR), text to speech (TTS), etc.
 - [TorchSSL](https://github.com/TorchSSL/TorchSSL): An all-in-one toolkit based on PyTorch for **semi-supervised learning (SSL)**, containing code for 9 popular SSL algorithms to enable fair comparison and boost the development of SSL algorithms.
 - [EasyEspnet](https://github.com/jindongwang/EasyEspnet): A wrapper for easier usage of [ESPnet](https://github.com/espnet/espnet) that **helps you learn/write/run/debug** codes in a more friendly Python style.
 - [DeepDA](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDA): A lightweight, easy-to-extend, easy-to-learn and high-performance toolkit based on PyTorch for **domain adaptation (DA)** of deep neural networks.
